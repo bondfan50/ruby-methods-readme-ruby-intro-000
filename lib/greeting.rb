@@ -1,13 +1,6 @@
 def greeting
-  puts "Hello World"
-    puts "Hello World"
-      puts "Hello World"
-        puts "Hello World"
-          puts "Hello World"
-            puts "Hello World"
-              puts "Hello World"
-                puts "Hello World"
-                  puts "Hello World"
+  10.times {puts "Hello World"}
+
 end
 
 greeting
